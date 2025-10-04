@@ -1,0 +1,501 @@
+CustomerID,Age,Annual_Income_k$,Spending_Score,Gender,Region,Membership_Years,Purchase_Frequency,Last_Purchase_Date,Preferred_Category
+1,63,129,30,Female,West,5,6,2023-01-22,Home Decor
+2,20,86,32,Male,East,16,6,2022-06-22,Home Decor
+3,46,120,27,Male,South,8,4,2022-05-19,Groceries
+4,52,86,12,Female,South,0,4,2021-09-14,Clothing
+5,56,96,46,Female,East,10,2,2021-09-28,Electronics
+6,35,137,87,Female,North,4,3,2022-08-22,Home Decor
+7,37,41,79,Female,North,18,2,2020-02-06,Home Decor
+8,60,138,60,Female,North,4,5,2023-08-10,Sports
+9,40,76,99,Male,East,17,4,2022-03-26,Home Decor
+10,51,54,50,Female,West,14,4,2020-03-06,Groceries
+11,50,67,67,Male,West,2,4,2023-04-05,Electronics
+12,67,54,79,Female,South,12,6,2022-06-20,Home Decor
+13,65,141,69,Male,South,1,4,2022-08-19,Sports
+14,27,23,92,Male,East,15,7,2020-01-06,Home Decor
+15,50,17,40,Male,West,15,6,2022-06-21,Groceries
+16,64,70,10,Male,North,14,6,2021-06-16,Electronics
+17,50,18,46,Male,South,2,8,2023-12-24,Sports
+18,65,54,86,Male,East,13,6,2021-08-08,Clothing
+19,43,70,3,Female,West,1,6,2022-11-11,Groceries
+20,37,79,50,Female,East,8,4,2023-03-30,Electronics
+21,32,85,39,Male,South,11,4,2021-03-06,Groceries
+22,54,44,100,Male,East,16,5,2023-10-20,Sports
+23,50,39,44,Female,West,7,6,2023-12-23,Clothing
+24,34,53,66,Female,East,10,6,2021-03-05,Electronics
+25,22,89,54,Female,North,7,10,2020-11-15,Sports
+26,67,47,57,Male,East,0,7,2020-05-19,Groceries
+27,21,68,89,Male,West,18,8,2020-04-09,Sports
+28,20,130,38,Male,North,3,10,2020-11-24,Sports
+29,38,126,30,Female,West,19,5,2021-07-08,Sports
+30,57,128,70,Male,East,14,4,2023-03-07,Electronics
+31,20,87,79,Male,North,12,6,2022-01-17,Clothing
+32,38,15,21,Female,South,17,3,2021-01-18,Groceries
+33,65,45,58,Female,South,4,4,2021-08-14,Home Decor
+34,66,35,84,Male,North,11,6,2023-10-11,Sports
+35,25,38,13,Female,West,15,3,2021-09-14,Clothing
+36,59,33,75,Male,South,17,6,2021-02-10,Sports
+37,53,75,68,Female,East,0,5,2023-09-15,Electronics
+38,46,126,53,Female,North,19,3,2022-05-01,Home Decor
+39,56,138,34,Female,West,13,9,2020-04-27,Clothing
+40,51,34,78,Female,West,0,7,2022-03-18,Sports
+41,39,131,59,Male,North,19,7,2022-09-07,Sports
+42,48,141,58,Female,West,3,3,2020-08-18,Electronics
+43,45,21,38,Male,South,17,6,2020-02-19,Electronics
+44,52,70,12,Male,North,6,4,2021-04-22,Home Decor
+45,51,86,78,Female,South,15,4,2020-08-03,Electronics
+46,30,108,56,Male,West,17,5,2022-05-26,Clothing
+47,58,25,14,Male,North,0,7,2022-12-04,Electronics
+48,21,86,89,Male,South,3,2,2020-05-20,Electronics
+49,60,57,19,Male,South,17,2,2020-02-01,Groceries
+50,23,30,82,Female,West,1,7,2022-11-11,Sports
+51,18,133,76,Female,East,10,6,2023-01-08,Home Decor
+52,29,18,67,Male,West,4,2,2023-04-01,Home Decor
+53,52,99,54,Female,East,10,7,2023-09-25,Clothing
+54,28,64,73,Male,North,5,10,2021-08-31,Sports
+55,40,48,93,Male,South,1,5,2022-10-24,Home Decor
+56,31,49,28,Female,East,0,7,2021-12-24,Home Decor
+57,36,78,86,Female,North,11,6,2021-09-21,Sports
+58,54,27,1,Female,South,1,4,2021-05-27,Clothing
+59,33,121,12,Male,East,8,4,2023-12-09,Clothing
+60,61,41,68,Female,South,10,11,2022-08-19,Sports
+61,45,56,88,Male,East,9,3,2022-07-25,Electronics
+62,62,60,63,Female,South,5,4,2023-01-27,Groceries
+63,48,51,61,Male,North,19,3,2020-09-28,Sports
+64,24,118,3,Male,East,12,8,2022-01-31,Electronics
+65,63,48,6,Female,South,4,4,2020-07-02,Home Decor
+66,69,23,1,Male,East,10,5,2020-11-05,Home Decor
+67,44,91,81,Male,East,1,5,2022-09-06,Clothing
+68,34,15,3,Male,West,6,4,2022-08-08,Electronics
+69,24,37,51,Male,South,18,7,2023-02-05,Electronics
+70,32,47,3,Female,North,13,9,2020-12-23,Electronics
+71,57,109,9,Male,East,1,7,2021-07-31,Home Decor
+72,29,136,18,Male,South,16,5,2021-10-22,Clothing
+73,25,35,97,Female,North,10,2,2022-09-24,Clothing
+74,19,75,26,Male,West,2,4,2023-11-03,Sports
+75,61,41,22,Male,West,13,5,2020-10-11,Home Decor
+76,55,116,65,Male,South,15,1,2020-08-16,Electronics
+77,43,115,83,Female,South,6,3,2022-04-11,Clothing
+78,68,21,70,Male,East,10,9,2023-06-18,Home Decor
+79,38,90,26,Male,South,3,1,2022-08-19,Home Decor
+80,67,145,85,Female,West,7,5,2020-09-16,Groceries
+81,30,99,62,Male,South,11,5,2021-01-13,Electronics
+82,36,43,69,Male,North,13,8,2022-09-02,Electronics
+83,35,81,82,Female,West,6,4,2022-08-02,Clothing
+84,19,119,15,Female,East,14,7,2022-07-30,Groceries
+85,69,108,20,Female,South,17,4,2023-03-30,Electronics
+86,62,62,48,Male,East,2,8,2023-01-10,Clothing
+87,59,117,28,Male,North,13,4,2020-05-22,Groceries
+88,66,55,57,Male,West,5,3,2020-07-29,Groceries
+89,45,137,37,Female,West,17,3,2023-03-25,Home Decor
+90,67,37,51,Male,North,0,7,2023-11-23,Clothing
+91,40,123,73,Male,South,2,3,2023-02-02,Clothing
+92,21,47,90,Female,East,2,5,2023-12-30,Clothing
+93,21,95,20,Male,South,1,8,2023-03-08,Clothing
+94,29,84,7,Female,East,6,3,2023-05-25,Clothing
+95,39,21,51,Male,East,8,5,2022-11-06,Home Decor
+96,43,142,58,Male,West,10,9,2021-06-08,Sports
+97,57,21,9,Female,West,7,3,2023-11-29,Home Decor
+98,59,135,33,Female,West,10,7,2022-04-03,Clothing
+99,52,128,86,Male,West,13,2,2023-09-13,Clothing
+100,21,118,65,Male,West,9,7,2020-07-16,Clothing
+101,29,42,8,Male,West,0,4,2020-12-04,Sports
+102,21,60,50,Male,North,8,3,2023-08-27,Sports
+103,69,36,98,Male,South,17,4,2020-11-29,Home Decor
+104,48,35,48,Male,East,18,6,2022-01-09,Home Decor
+105,24,125,63,Female,North,15,8,2023-09-26,Home Decor
+106,27,46,89,Female,North,11,7,2020-09-19,Groceries
+107,41,129,97,Male,West,9,8,2022-06-13,Clothing
+108,32,84,73,Female,East,7,4,2021-12-18,Electronics
+109,56,68,81,Female,South,4,2,2023-12-18,Sports
+110,37,35,75,Male,South,12,6,2023-01-14,Clothing
+111,24,49,83,Female,South,10,5,2020-11-19,Home Decor
+112,30,37,86,Female,South,18,1,2022-12-27,Groceries
+113,45,38,9,Female,North,0,5,2021-12-13,Sports
+114,56,108,10,Male,South,0,9,2020-11-04,Groceries
+115,35,88,89,Female,West,18,3,2023-02-07,Home Decor
+116,64,83,21,Male,South,11,2,2022-02-09,Clothing
+117,28,141,75,Male,East,0,6,2023-03-10,Groceries
+118,53,139,20,Male,East,7,2,2023-02-18,Groceries
+119,53,148,12,Female,East,12,6,2023-04-01,Home Decor
+120,19,66,50,Female,West,15,6,2022-10-14,Groceries
+121,65,96,79,Female,East,0,5,2020-01-29,Groceries
+122,63,114,6,Female,West,15,5,2020-12-23,Electronics
+123,34,55,17,Male,West,11,4,2021-06-18,Sports
+124,23,74,57,Female,West,17,2,2020-09-06,Sports
+125,58,91,69,Male,North,10,5,2020-04-17,Electronics
+126,63,133,79,Female,South,16,8,2020-09-06,Clothing
+127,40,109,96,Female,South,15,6,2023-07-22,Sports
+128,64,141,51,Female,North,10,4,2022-09-28,Clothing
+129,33,53,67,Male,West,2,6,2022-10-19,Home Decor
+130,58,136,3,Male,North,14,5,2023-09-22,Clothing
+131,43,15,79,Male,North,18,4,2022-11-01,Groceries
+132,63,137,48,Male,West,4,6,2020-03-14,Home Decor
+133,67,34,96,Female,North,11,3,2020-02-25,Electronics
+134,18,125,72,Male,South,7,4,2022-10-02,Clothing
+135,53,148,6,Male,North,12,4,2021-01-16,Clothing
+136,47,130,5,Male,South,19,3,2020-06-30,Clothing
+137,19,108,16,Male,East,14,4,2023-08-17,Electronics
+138,37,134,53,Female,East,8,6,2020-06-12,Sports
+139,22,127,17,Female,North,16,6,2021-04-01,Clothing
+140,48,17,39,Male,South,13,9,2020-06-21,Sports
+141,25,84,5,Female,East,0,7,2023-12-03,Sports
+142,47,79,88,Male,East,5,7,2022-08-30,Clothing
+143,56,97,91,Female,North,19,3,2022-12-05,Home Decor
+144,19,52,25,Male,South,14,4,2021-07-14,Electronics
+145,30,42,21,Male,North,3,8,2023-09-15,Electronics
+146,21,61,8,Male,South,18,4,2020-03-23,Groceries
+147,62,24,46,Male,West,14,6,2023-01-19,Sports
+148,69,102,34,Female,South,0,5,2022-07-04,Sports
+149,25,147,79,Male,South,14,6,2023-01-24,Electronics
+150,56,100,35,Male,South,19,7,2022-10-08,Electronics
+151,42,48,26,Female,North,0,3,2022-03-14,Groceries
+152,24,126,100,Male,East,17,7,2022-04-12,Sports
+153,31,99,98,Male,South,6,4,2022-01-02,Home Decor
+154,46,17,35,Male,South,9,5,2020-03-14,Electronics
+155,62,22,53,Female,South,2,9,2022-12-17,Clothing
+156,38,65,15,Female,West,1,4,2022-02-18,Electronics
+157,54,36,67,Male,North,15,4,2022-02-05,Home Decor
+158,66,59,41,Female,South,14,4,2020-03-26,Sports
+159,50,94,9,Male,West,3,7,2021-12-19,Sports
+160,58,138,36,Female,East,3,5,2020-12-31,Sports
+161,42,42,52,Male,West,10,5,2021-03-22,Electronics
+162,63,113,58,Female,West,11,4,2021-12-18,Sports
+163,31,120,90,Female,West,18,2,2020-04-04,Groceries
+164,26,43,10,Female,South,2,6,2022-03-04,Clothing
+165,32,116,30,Male,East,12,5,2022-07-18,Sports
+166,24,92,100,Female,East,11,5,2021-11-01,Groceries
+167,19,124,58,Male,West,5,4,2023-01-02,Groceries
+168,48,18,81,Female,North,9,7,2020-03-12,Groceries
+169,24,144,89,Male,West,2,3,2020-10-06,Clothing
+170,58,124,75,Female,East,6,4,2021-05-07,Clothing
+171,28,78,59,Male,South,18,1,2023-10-18,Sports
+172,30,43,31,Male,East,19,5,2023-07-04,Sports
+173,30,103,76,Male,South,15,6,2023-08-09,Sports
+174,43,109,25,Male,East,6,9,2020-11-18,Clothing
+175,60,29,90,Male,South,2,3,2023-11-27,Groceries
+176,67,111,39,Female,North,7,3,2021-08-27,Groceries
+177,25,54,56,Female,South,13,5,2022-01-21,Home Decor
+178,31,116,77,Female,West,7,7,2021-03-17,Clothing
+179,62,122,30,Female,North,3,8,2021-08-08,Clothing
+180,19,48,3,Male,South,6,8,2020-03-07,Groceries
+181,59,141,31,Male,West,14,7,2022-11-10,Clothing
+182,32,148,85,Male,East,12,4,2021-04-09,Groceries
+183,41,117,46,Male,South,18,2,2023-01-02,Sports
+184,51,101,35,Female,West,4,1,2022-05-23,Home Decor
+185,21,128,93,Male,East,14,5,2020-04-08,Groceries
+186,35,113,13,Female,South,11,2,2023-02-18,Clothing
+187,42,16,30,Male,South,3,6,2022-01-01,Groceries
+188,64,111,70,Female,South,14,7,2021-11-04,Home Decor
+189,41,40,11,Female,West,18,4,2023-11-20,Groceries
+190,23,58,11,Female,North,14,4,2020-08-28,Electronics
+191,51,32,68,Female,East,10,5,2020-12-13,Home Decor
+192,68,112,22,Female,North,17,6,2023-10-30,Electronics
+193,55,44,98,Female,North,9,6,2022-09-14,Home Decor
+194,20,122,94,Female,North,15,2,2020-10-08,Sports
+195,36,37,69,Male,North,14,7,2023-10-26,Clothing
+196,64,62,31,Male,South,6,3,2022-03-20,Groceries
+197,63,141,92,Female,West,0,1,2021-04-09,Sports
+198,53,37,31,Male,South,7,6,2022-05-11,Groceries
+199,36,54,87,Female,West,9,4,2023-11-03,Electronics
+200,45,78,3,Female,West,6,6,2020-03-19,Electronics
+201,64,86,35,Female,North,10,9,2020-10-27,Home Decor
+202,27,138,85,Male,North,10,3,2020-06-30,Electronics
+203,35,124,60,Male,North,17,3,2022-12-03,Sports
+204,21,92,85,Female,West,17,4,2021-01-14,Electronics
+205,29,16,10,Male,East,19,4,2021-06-16,Sports
+206,44,136,76,Female,East,2,2,2023-07-09,Sports
+207,46,18,27,Female,South,17,3,2021-10-10,Groceries
+208,29,114,12,Male,East,2,9,2021-08-25,Clothing
+209,28,23,87,Male,North,13,4,2022-01-09,Home Decor
+210,21,30,86,Female,West,2,7,2023-02-20,Clothing
+211,63,110,87,Male,East,14,3,2020-05-05,Home Decor
+212,41,41,87,Male,West,11,2,2023-05-16,Electronics
+213,43,29,15,Male,North,16,4,2022-08-20,Sports
+214,45,82,26,Female,East,8,5,2020-11-23,Sports
+215,64,39,28,Male,East,10,5,2021-08-11,Sports
+216,21,29,13,Male,West,6,2,2020-12-22,Sports
+217,53,26,99,Male,East,11,3,2023-03-31,Home Decor
+218,32,85,44,Female,South,5,6,2021-08-06,Clothing
+219,39,84,38,Male,East,4,6,2021-12-19,Sports
+220,66,126,4,Female,South,18,6,2021-06-03,Home Decor
+221,41,74,78,Male,West,8,6,2021-06-09,Groceries
+222,41,45,47,Female,West,15,4,2023-12-04,Sports
+223,54,74,8,Male,West,4,4,2021-09-15,Home Decor
+224,22,89,98,Male,West,18,8,2023-02-26,Clothing
+225,23,28,66,Female,South,11,5,2020-07-22,Home Decor
+226,66,116,8,Female,East,8,3,2021-07-30,Clothing
+227,27,96,89,Male,North,10,5,2020-08-25,Electronics
+228,20,28,91,Male,North,12,2,2020-08-14,Home Decor
+229,55,39,75,Male,North,13,2,2023-02-16,Home Decor
+230,51,123,59,Female,West,1,5,2021-03-10,Groceries
+231,23,122,59,Male,East,14,5,2020-03-01,Clothing
+232,27,102,17,Male,South,19,5,2020-01-05,Groceries
+233,33,32,30,Female,East,10,3,2021-12-13,Electronics
+234,46,71,51,Male,South,15,3,2020-03-21,Clothing
+235,20,112,57,Male,North,2,8,2020-08-28,Electronics
+236,28,81,10,Female,East,13,10,2020-10-03,Sports
+237,54,83,34,Female,West,19,6,2023-11-16,Sports
+238,21,97,15,Male,North,15,6,2021-10-15,Home Decor
+239,66,90,86,Female,East,16,3,2022-04-13,Electronics
+240,21,105,25,Female,North,11,9,2020-05-31,Groceries
+241,41,31,14,Male,East,4,3,2021-04-12,Groceries
+242,45,106,25,Female,West,3,2,2022-03-31,Sports
+243,52,54,53,Male,South,7,6,2021-09-16,Groceries
+244,55,36,17,Female,South,13,4,2023-02-18,Groceries
+245,67,119,66,Male,West,19,6,2021-12-30,Sports
+246,41,148,93,Female,North,18,7,2021-04-30,Home Decor
+247,39,31,85,Female,South,13,6,2022-03-13,Home Decor
+248,43,90,48,Male,West,2,4,2021-09-16,Clothing
+249,35,94,2,Female,East,14,5,2022-01-05,Electronics
+250,20,47,63,Male,South,3,4,2021-05-18,Electronics
+251,63,15,52,Female,North,12,3,2022-05-06,Clothing
+252,28,93,96,Female,North,18,3,2023-01-18,Electronics
+253,26,142,72,Male,North,16,4,2023-12-30,Sports
+254,50,68,100,Male,East,9,4,2020-01-06,Sports
+255,43,128,53,Female,North,18,6,2020-01-01,Groceries
+256,53,97,91,Male,North,12,9,2020-12-23,Groceries
+257,21,98,27,Male,West,11,9,2023-07-22,Clothing
+258,69,15,57,Male,South,2,5,2021-04-16,Electronics
+259,19,115,23,Male,South,18,7,2022-06-12,Home Decor
+260,25,139,61,Male,West,17,4,2021-06-24,Groceries
+261,24,109,12,Male,West,10,3,2021-06-15,Home Decor
+262,53,29,70,Male,North,17,4,2022-11-17,Electronics
+263,51,79,43,Male,East,5,7,2020-03-26,Electronics
+264,57,127,24,Female,South,13,10,2020-05-31,Sports
+265,36,51,57,Female,North,19,10,2020-12-12,Sports
+266,46,44,25,Female,East,12,6,2020-10-15,Home Decor
+267,56,25,20,Male,South,1,4,2022-03-19,Electronics
+268,23,46,47,Female,North,11,3,2022-04-16,Home Decor
+269,27,16,45,Female,North,6,4,2022-02-26,Clothing
+270,58,138,6,Male,West,17,5,2023-07-19,Home Decor
+271,59,36,85,Female,East,1,3,2022-05-31,Home Decor
+272,22,87,31,Male,North,3,2,2021-09-15,Clothing
+273,41,132,97,Female,North,5,6,2022-11-13,Home Decor
+274,58,69,81,Female,North,10,4,2020-01-30,Electronics
+275,39,44,33,Male,South,8,6,2023-02-06,Clothing
+276,43,103,66,Female,West,15,6,2020-05-18,Groceries
+277,68,35,97,Male,North,10,7,2020-12-20,Sports
+278,54,96,2,Female,North,4,8,2021-10-12,Home Decor
+279,62,34,45,Male,West,16,6,2023-09-06,Groceries
+280,46,127,14,Female,East,1,4,2020-09-28,Sports
+281,53,49,3,Male,West,6,6,2021-12-09,Home Decor
+282,37,43,90,Male,West,18,8,2022-08-21,Electronics
+283,35,124,88,Male,North,14,2,2020-04-15,Sports
+284,57,70,12,Female,North,18,7,2020-01-03,Sports
+285,62,130,51,Female,West,6,2,2023-03-04,Electronics
+286,58,81,73,Male,North,13,3,2021-03-13,Home Decor
+287,32,46,4,Female,West,12,8,2023-04-10,Sports
+288,32,72,5,Female,North,5,2,2020-02-03,Clothing
+289,41,92,53,Female,South,5,3,2022-03-06,Sports
+290,46,83,69,Male,North,14,4,2022-05-10,Electronics
+291,34,42,76,Male,East,10,5,2020-08-13,Home Decor
+292,66,86,45,Male,South,0,5,2023-07-03,Home Decor
+293,64,123,11,Male,West,19,3,2022-04-14,Home Decor
+294,42,74,92,Male,North,11,7,2021-02-22,Clothing
+295,33,27,27,Male,West,6,3,2020-01-18,Groceries
+296,67,32,86,Female,East,17,4,2020-02-07,Clothing
+297,34,64,3,Female,West,19,6,2023-03-26,Home Decor
+298,64,57,21,Male,East,8,6,2022-06-26,Groceries
+299,64,99,11,Male,South,2,8,2023-11-18,Clothing
+300,38,60,28,Male,East,14,8,2021-09-18,Sports
+301,61,38,29,Female,South,12,2,2023-06-08,Groceries
+302,65,19,81,Female,East,9,7,2023-04-09,Home Decor
+303,44,57,74,Female,South,2,8,2022-10-10,Groceries
+304,22,67,79,Male,East,0,5,2022-12-13,Electronics
+305,39,117,44,Female,South,9,2,2021-02-11,Clothing
+306,50,27,29,Male,North,9,12,2020-11-29,Home Decor
+307,57,35,68,Male,South,11,5,2023-04-16,Groceries
+308,19,104,24,Female,West,1,5,2022-10-22,Groceries
+309,52,112,24,Male,North,8,0,2021-04-27,Groceries
+310,60,54,14,Female,East,3,7,2020-08-16,Clothing
+311,36,57,26,Female,South,7,4,2021-03-28,Groceries
+312,57,73,75,Male,South,6,3,2022-02-11,Electronics
+313,44,63,3,Male,South,14,5,2022-09-19,Home Decor
+314,57,50,11,Female,East,13,5,2021-01-30,Groceries
+315,53,136,47,Male,West,1,9,2021-11-23,Electronics
+316,56,108,50,Female,East,15,6,2020-06-03,Sports
+317,19,122,6,Female,South,11,2,2023-01-19,Sports
+318,58,47,52,Male,North,8,8,2020-02-12,Home Decor
+319,35,122,33,Female,South,6,5,2020-06-20,Groceries
+320,63,141,17,Female,North,10,2,2023-06-28,Clothing
+321,40,101,40,Female,South,5,6,2023-07-15,Clothing
+322,43,76,18,Male,West,13,4,2023-11-23,Groceries
+323,28,33,44,Female,West,12,3,2022-03-12,Clothing
+324,65,115,4,Male,East,8,6,2021-02-04,Home Decor
+325,18,45,100,Male,West,0,6,2021-03-26,Clothing
+326,53,64,57,Male,North,18,2,2022-02-20,Electronics
+327,67,117,79,Male,East,13,2,2020-07-22,Sports
+328,37,31,49,Male,West,11,9,2020-04-14,Home Decor
+329,48,20,41,Female,South,12,3,2020-03-20,Groceries
+330,25,74,90,Female,West,17,4,2023-01-06,Clothing
+331,57,33,33,Female,East,2,7,2020-09-15,Sports
+332,41,54,64,Male,West,8,3,2023-02-06,Groceries
+333,37,138,28,Female,North,11,8,2023-05-09,Sports
+334,32,59,94,Male,North,10,9,2023-04-19,Groceries
+335,47,56,52,Female,North,4,8,2021-04-22,Groceries
+336,37,84,46,Male,North,7,5,2020-11-24,Sports
+337,55,67,92,Female,North,0,5,2021-01-06,Home Decor
+338,19,92,60,Female,East,8,5,2022-09-29,Clothing
+339,23,137,40,Male,West,12,5,2021-04-09,Clothing
+340,59,129,98,Male,East,8,7,2022-06-23,Groceries
+341,35,124,10,Female,West,9,6,2021-02-17,Electronics
+342,53,70,54,Male,North,3,2,2021-03-05,Groceries
+343,31,42,49,Male,South,8,6,2020-06-22,Sports
+344,43,48,79,Male,South,13,5,2021-04-12,Home Decor
+345,51,79,44,Male,South,15,6,2021-05-26,Home Decor
+346,47,125,94,Male,West,10,7,2021-08-24,Groceries
+347,24,142,28,Male,West,19,8,2023-07-02,Clothing
+348,47,145,39,Female,East,0,7,2023-05-04,Sports
+349,35,70,90,Male,East,13,2,2020-12-13,Home Decor
+350,39,36,26,Female,West,10,3,2023-06-13,Electronics
+351,34,146,1,Female,North,4,4,2021-06-04,Home Decor
+352,48,114,86,Male,North,13,4,2021-04-21,Clothing
+353,34,132,87,Female,North,17,9,2020-02-09,Clothing
+354,48,26,89,Female,South,4,4,2020-12-29,Sports
+355,30,51,8,Male,East,15,4,2020-02-12,Sports
+356,44,55,34,Male,South,13,3,2021-04-18,Home Decor
+357,37,72,15,Female,East,16,4,2021-06-13,Clothing
+358,34,77,66,Male,North,4,6,2020-04-21,Sports
+359,46,85,12,Male,North,13,4,2020-08-01,Home Decor
+360,56,147,58,Male,North,2,4,2021-03-01,Electronics
+361,52,105,18,Male,South,8,9,2022-01-22,Groceries
+362,25,103,59,Female,North,10,3,2022-08-14,Clothing
+363,60,31,61,Female,North,3,6,2020-10-21,Electronics
+364,55,133,7,Male,South,7,13,2023-10-10,Electronics
+365,32,40,42,Male,North,18,7,2023-08-02,Clothing
+366,67,107,91,Female,North,4,6,2021-02-27,Sports
+367,18,74,66,Male,South,13,4,2020-10-02,Groceries
+368,50,41,99,Male,West,12,2,2022-04-21,Sports
+369,20,95,46,Female,East,1,5,2023-04-13,Clothing
+370,56,139,59,Female,North,19,3,2023-11-30,Home Decor
+371,55,52,48,Female,North,5,7,2022-07-01,Sports
+372,65,94,77,Female,South,12,3,2023-09-13,Home Decor
+373,32,46,68,Male,West,5,3,2020-04-13,Home Decor
+374,59,15,92,Male,South,11,0,2023-08-19,Sports
+375,35,23,23,Female,West,14,7,2022-10-20,Home Decor
+376,55,64,18,Female,South,15,6,2023-12-27,Home Decor
+377,48,123,21,Female,South,13,3,2023-08-31,Groceries
+378,37,148,14,Male,West,1,8,2022-11-05,Clothing
+379,24,140,77,Female,West,7,5,2022-09-11,Home Decor
+380,54,53,50,Male,East,4,6,2020-05-27,Electronics
+381,44,146,84,Male,South,14,6,2021-05-03,Sports
+382,25,127,77,Female,North,19,1,2023-04-28,Groceries
+383,31,113,8,Male,North,11,6,2022-12-24,Clothing
+384,67,22,4,Male,West,15,1,2020-11-30,Groceries
+385,32,37,70,Male,East,15,6,2022-04-03,Electronics
+386,24,127,24,Female,South,19,5,2020-12-27,Electronics
+387,50,85,24,Male,East,5,5,2023-08-29,Home Decor
+388,69,131,49,Male,West,8,3,2023-10-01,Clothing
+389,51,80,20,Female,West,2,6,2021-02-06,Sports
+390,21,52,13,Female,West,19,8,2020-05-23,Clothing
+391,18,24,98,Female,East,15,4,2021-10-28,Home Decor
+392,58,95,72,Male,North,0,3,2023-03-31,Clothing
+393,31,121,58,Female,North,4,7,2022-11-29,Clothing
+394,48,72,34,Male,North,16,5,2020-06-02,Home Decor
+395,55,102,47,Male,East,15,4,2020-04-08,Groceries
+396,67,124,5,Male,South,8,6,2023-08-23,Clothing
+397,37,26,16,Male,East,16,3,2023-05-16,Groceries
+398,20,121,80,Female,North,14,6,2022-08-15,Sports
+399,52,43,78,Male,West,18,3,2020-07-18,Sports
+400,63,71,27,Female,West,12,4,2023-08-19,Sports
+401,50,50,42,Male,North,17,5,2021-02-26,Clothing
+402,32,21,60,Female,South,11,3,2022-04-20,Sports
+403,20,42,31,Male,West,11,5,2021-12-22,Electronics
+404,45,119,14,Female,South,10,7,2022-12-24,Sports
+405,44,19,95,Male,West,7,5,2023-03-23,Clothing
+406,64,123,78,Male,North,8,6,2022-06-17,Clothing
+407,64,143,88,Female,East,9,3,2022-11-20,Groceries
+408,50,135,99,Male,East,10,1,2022-10-03,Home Decor
+409,36,58,15,Female,South,0,6,2021-02-12,Sports
+410,50,132,20,Female,North,17,4,2022-04-11,Groceries
+411,48,32,58,Male,West,12,7,2022-08-17,Groceries
+412,21,131,28,Female,South,4,5,2022-06-18,Clothing
+413,49,59,27,Male,North,16,2,2022-04-08,Groceries
+414,59,65,1,Female,East,3,4,2022-06-07,Groceries
+415,45,19,12,Female,East,19,6,2020-04-08,Groceries
+416,33,59,59,Male,East,3,1,2022-05-22,Sports
+417,66,73,91,Male,South,15,4,2021-04-25,Clothing
+418,60,144,100,Female,East,6,3,2023-09-27,Groceries
+419,45,96,95,Male,South,19,3,2023-01-09,Clothing
+420,32,49,24,Female,West,13,7,2020-09-09,Clothing
+421,65,30,96,Male,East,2,5,2023-03-24,Home Decor
+422,39,72,84,Male,East,1,4,2021-03-06,Clothing
+423,48,55,23,Male,East,9,7,2022-09-13,Sports
+424,38,58,3,Female,East,4,4,2020-09-15,Sports
+425,49,124,16,Male,West,16,5,2022-10-03,Sports
+426,24,73,47,Female,South,11,7,2022-12-31,Home Decor
+427,50,131,66,Male,West,12,11,2020-07-25,Home Decor
+428,25,46,37,Male,North,10,6,2022-08-20,Groceries
+429,31,98,85,Female,West,17,5,2023-02-16,Home Decor
+430,42,53,3,Female,South,2,5,2020-12-14,Sports
+431,49,43,61,Female,North,1,7,2020-08-08,Groceries
+432,45,143,12,Male,East,4,3,2022-11-22,Electronics
+433,19,121,92,Female,East,15,5,2022-04-05,Sports
+434,34,132,89,Female,East,17,5,2021-11-11,Electronics
+435,44,59,61,Female,North,15,5,2020-03-10,Groceries
+436,19,80,80,Male,South,11,10,2021-04-01,Home Decor
+437,25,48,12,Male,North,4,4,2021-04-07,Groceries
+438,55,134,85,Male,East,11,3,2021-05-27,Clothing
+439,37,117,22,Male,East,16,3,2022-04-17,Home Decor
+440,66,54,19,Male,East,1,8,2021-05-07,Electronics
+441,54,29,12,Male,North,10,3,2020-06-28,Clothing
+442,38,58,76,Male,North,2,8,2021-12-13,Electronics
+443,43,129,50,Female,South,13,5,2022-10-04,Sports
+444,48,31,23,Female,East,0,5,2021-07-07,Home Decor
+445,37,119,99,Female,North,4,6,2020-05-13,Clothing
+446,23,62,9,Male,North,11,2,2021-09-05,Clothing
+447,67,99,85,Male,West,19,4,2022-11-20,Clothing
+448,32,145,17,Male,East,12,9,2021-07-03,Sports
+449,18,31,2,Female,East,5,5,2023-12-27,Electronics
+450,43,95,37,Male,North,4,5,2022-08-08,Sports
+451,46,39,61,Male,West,14,3,2023-12-13,Electronics
+452,19,30,75,Female,East,0,1,2021-01-14,Home Decor
+453,39,73,85,Male,East,19,6,2022-02-22,Home Decor
+454,46,116,69,Female,East,15,8,2020-10-01,Clothing
+455,26,46,34,Male,North,11,10,2021-02-08,Groceries
+456,58,66,96,Female,North,5,5,2020-06-14,Groceries
+457,38,39,10,Male,South,18,9,2020-11-10,Electronics
+458,49,121,77,Female,South,3,6,2023-01-12,Clothing
+459,49,94,2,Male,East,19,4,2021-04-20,Groceries
+460,64,128,23,Male,West,4,2,2023-01-20,Home Decor
+461,61,119,3,Female,East,10,8,2020-04-01,Electronics
+462,57,98,85,Male,West,7,1,2023-02-10,Electronics
+463,43,42,74,Female,North,17,7,2023-12-12,Sports
+464,65,22,3,Female,South,8,6,2021-08-04,Clothing
+465,30,120,79,Male,North,1,7,2020-03-26,Electronics
+466,20,76,63,Female,West,6,5,2023-07-11,Groceries
+467,49,115,74,Male,West,16,7,2021-10-05,Electronics
+468,50,105,47,Male,South,16,10,2022-02-10,Groceries
+469,50,115,73,Male,North,14,2,2021-08-22,Clothing
+470,59,51,53,Male,East,16,1,2022-04-09,Electronics
+471,59,45,16,Male,North,3,8,2020-07-06,Home Decor
+472,30,110,88,Male,West,4,2,2020-05-26,Home Decor
+473,60,95,84,Male,North,8,4,2021-08-25,Groceries
+474,23,37,30,Male,South,3,6,2020-01-10,Home Decor
+475,21,55,13,Male,North,10,4,2020-01-19,Home Decor
+476,55,135,65,Female,North,6,4,2021-01-21,Clothing
+477,23,95,68,Female,West,1,3,2021-02-26,Sports
+478,68,126,60,Female,East,1,4,2020-06-22,Clothing
+479,20,32,7,Female,East,8,5,2023-07-05,Groceries
+480,44,139,56,Male,South,11,4,2020-04-24,Clothing
+481,57,38,50,Female,South,11,3,2022-08-07,Clothing
+482,37,53,100,Female,North,9,4,2023-03-03,Electronics
+483,35,35,85,Female,East,3,6,2022-03-04,Clothing
+484,37,75,30,Female,South,3,3,2022-08-19,Clothing
+485,47,42,39,Female,East,19,8,2021-12-19,Sports
+486,27,83,63,Female,West,6,6,2020-09-13,Sports
+487,69,34,27,Female,South,4,5,2022-11-20,Electronics
+488,40,73,90,Female,East,16,8,2022-12-19,Clothing
+489,64,148,83,Male,East,13,4,2023-05-01,Electronics
+490,20,17,14,Female,East,12,5,2020-12-18,Sports
+491,69,104,55,Female,West,17,3,2020-08-10,Electronics
+492,67,63,40,Male,North,12,1,2020-02-12,Sports
+493,26,36,58,Male,South,14,11,2021-06-11,Home Decor
+494,66,98,31,Male,East,14,4,2020-09-10,Electronics
+495,36,44,7,Female,East,7,6,2021-04-08,Clothing
+496,53,126,97,Male,South,16,6,2022-05-02,Electronics
+497,57,16,73,Female,South,17,4,2023-12-22,Home Decor
+498,44,118,66,Female,West,13,7,2022-07-17,Groceries
+499,59,53,58,Female,North,4,3,2020-04-03,Electronics
+500,45,116,100,Female,East,1,6,2020-05-01,Sports
